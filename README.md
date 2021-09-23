@@ -39,7 +39,19 @@ Things I am Learning :
 Contributed To OpenSources :
   * [Corvus OS](https://github.com/Corvus-R) / [Corvus OS - Devices](https://github.com/CorvusRom-Devices)
   * [Octavi OS](https://github.com/Octavi-OS) / [Octavi OS - Devices](https://github.com/OctaviOS-Devices)
- 
+
+---
+<p align="center">
+Tools I Use
+</p>
+<p align="center">
+  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/-Visual Studio 2010--2019-5A0FC8?style=flat">
+  <img src="https://img.shields.io/badge/-NASM--2019-0000cc?style=flat">
+</p>
+
 ---
 My Git Status :
 <p align="center">
