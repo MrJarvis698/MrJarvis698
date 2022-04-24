@@ -9,8 +9,7 @@
   <img src="https://github.com/mrjarvis698/mrjarvis698/blob/main/img/mrjarvis698_card.png" width="100%" title="introcard" alt="introcard">
 </p>
 <p align="center">
-  I am just a passed out "STUDENT" in Bsc-IT from NaviMumbai, Maharashtra.
-  Interested To be Python Full Stack Developer.
+  CyberARK and CAPAM Engineer.
 </p>
 
 ---
@@ -35,6 +34,8 @@ Things I am Learning :
 * Advance Python + Django
 * DSA using Java
 * Assembly Language X86 Arch
+* CAPAM
+* CyberARK
 
 Contributed To OpenSources :
   * [Corvus OS](https://github.com/Corvus-R) / [Corvus OS - Devices](https://github.com/CorvusRom-Devices)
