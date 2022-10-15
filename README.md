@@ -9,7 +9,7 @@
   <img src="https://github.com/mrjarvis698/mrjarvis698/blob/main/img/mrjarvis698_card.png" width="100%" title="introcard" alt="introcard">
 </p>
 <p align="center">
-  CyberARK and CAPAM Engineer.
+  CyberArk and Broadcom CA Privileged Access Manager Engineer.
 </p>
 
 ---
@@ -29,13 +29,11 @@ Things I Learned :
 * Bash and Python Scripting
 
 Things I am Learning :
-* Xamarin & Cordova Applications
-* AOSP implementations
 * Advance Python + Django
-* DSA using Java
-* Assembly Language X86 Arch
-* CAPAM
-* CyberARK
+* CyberArk
+* Powershell Scripting
+* CyberArk API Scripting
+* PAM Solutions
 
 Contributed To OpenSources :
   * [Corvus OS](https://github.com/Corvus-R) / [Corvus OS - Devices](https://github.com/CorvusRom-Devices)
